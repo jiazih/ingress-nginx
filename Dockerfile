@@ -1,1 +1,1 @@
-FROM dockerhub/nginx:latest 
+FROM dockerhub/nginx:latest-alpine 
