@@ -1,1 +1,1 @@
-FROM nginx:latest 
+FROM dockerhub.io/nginx:latest 
