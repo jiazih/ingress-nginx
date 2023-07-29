@@ -1,1 +1,1 @@
-FROM docker.io/calico/node:v3.26.1 
+FROM registry.k8s.io/ingress-nginx/controller:v1.8.1
